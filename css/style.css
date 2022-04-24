@@ -171,11 +171,11 @@ body {
 }
 
 .input-field_name {
-  background-image: url("../../img/icons/user.png");
+  background-image: url("../img/icons/user.png");
 }
 
 .input-field_email {
-  background-image: url("../../img/icons/mail.png");
+  background-image: url("../img/icons/mail.png");
 }
 
 .header__row {
@@ -408,7 +408,7 @@ body {
 }
 
 .request-form__tel {
-  background-image: url("../../img/icons/phone.png");
+  background-image: url("../img/icons/phone.png");
   margin: 0px 10px 0px 0px;
   -webkit-box-flex: 2;
       -ms-flex: 2 2 280px;
@@ -438,7 +438,7 @@ body {
   max-width: 650px;
   height: 350px;
   margin: 0px auto;
-  background: url("../../img/laptop-wraper.png") 0 0/100% no-repeat;
+  background: url("../img/laptop-wraper.png") 0 0/100% no-repeat;
 }
 
 @media (max-width: 767.98px) {
@@ -1531,14 +1531,14 @@ body {
 }
 
 .testimonials__text::before {
-  content: url("../../img/icons/bracket-start.png");
+  content: url("../img/icons/bracket-start.png");
   position: absolute;
   left: -15px;
   top: -5px;
 }
 
 .testimonials__text span::after {
-  content: url("../../img/icons/bracket-end.png");
+  content: url("../img/icons/bracket-end.png");
   position: relative;
   bottom: 5px;
   right: -2px;
@@ -1614,7 +1614,7 @@ body {
 }
 
 .subscribe__address {
-  background: url("../../img/dotted-map.jpg") 0 0/contain no-repeat;
+  background: url("../img/dotted-map.jpg") 0 0/contain no-repeat;
   margin: 0 30px;
   padding: 40px;
   height: 550px;
@@ -1905,7 +1905,7 @@ body {
   font-size: 22px;
   line-height: 1.1;
   padding: 0px 0px 0px 30px;
-  background: url("../../img/icons/phone.png") 10px 50%/16px no-repeat;
+  background: url("../img/icons/phone.png") 10px 50%/16px no-repeat;
 }
 
 .bottom__tel a {
